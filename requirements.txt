@@ -1,0 +1,13 @@
+atomicwrites==1.1.5
+attrs==18.1.0
+Django==1.11.5
+django-filter==1.1.0
+djangorestframework==3.6.4
+more-itertools==4.3.0
+permission==0.4.1
+pluggy==0.7.1
+py==1.5.4
+pytest==3.7.1
+pytest-django==3.3.3
+pytz==2018.5
+six==1.11.0
